@@ -28,6 +28,7 @@ public class AppMain {
         }
 
         // Github test için
+        // yapıldı
 
 
     }
