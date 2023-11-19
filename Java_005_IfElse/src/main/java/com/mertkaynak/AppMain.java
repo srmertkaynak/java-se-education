@@ -27,6 +27,8 @@ public class AppMain {
             System.out.println("Hayır oy kullanamazsınız.");
         }
 
+        // Github test için
+
 
     }
 }
