@@ -40,9 +40,9 @@ public class _003_StringMethod {
         System.out.println(adi.length());
 
         if (adi.length() > 5) {
-            System.out.println("EVET");
+            System.out.println("EVET 5'ten büyük");
         } else {
-            System.out.println("HAYIR");
+            System.out.println("HAYIR 5'ten küçük");
         }
 
         cizgiCek();
