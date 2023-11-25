@@ -10,5 +10,11 @@ public class AppMain {
                 1241241414,
                 30000.15);
         System.out.println(musteri);
+
+        System.out.println(musteri.getAdi());
+        System.out.println(musteri.getSoyadi());
+        System.out.println(musteri.getIban());
+        System.out.println(musteri.getHesapCuzdani());
+        System.out.println(musteri.getHesapNo());
     }
 }
