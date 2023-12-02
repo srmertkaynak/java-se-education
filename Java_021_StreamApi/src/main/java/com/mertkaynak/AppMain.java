@@ -5,6 +5,7 @@ import java.util.stream.Stream;
 
 public class AppMain {
     public static void main(String[] args) {
+
         Stream<String> bosKayit = Stream.empty();
         System.out.println("Boş Kayıt: "+bosKayit);
 
@@ -22,6 +23,5 @@ public class AppMain {
         Stream <String> ogrencilerStream = ogrenciListesi.stream();
         System.out.println("Toplam Öğrenci Sayısı: "+ogrencilerStream.count());
         ogrencilerStream.forEach(ogrenci -> System.out.println(ogrenci));
-        ogrencilerStream.forEach(System.out::println);
     }
 }
