@@ -1,0 +1,19 @@
+1- Sınıf bir nesne midir?
+* Temelinde bir nesnedir. Sınıf bir kalıptır. Sınıflarla nesneler oluştururuz.
+
+2- Byte ile byte toplanırsa int'e eşitlenmeli. Aynı türdeki yüksek değerler toplanırsa bir üst değişkene yuvarlanmalı.
+
+3- Constructor ne zaman çalışır?
+* Constructor nesne ilk çalıştırılığında çalışır.
+
+4- Paketler nerede tanımlanmalıdır?
+* Paketler her zaman en üst kısımda tanımlanmalıdır.
+
+5- Çoklu polimorfism çalışır mı? Çoklu miras verilir mi?
+* Hayır. Tek miras alınabilir.
+
+6- Abstract sınıflar miras alınır mı? Implements edilebilir mi?
+* Abstract class miras alınır. Implements edilmez.
+
+7- Listelerde ilkel değişkenler çalışır mı?
+* Hayır. Listelerde class tipleri kullanılır.
