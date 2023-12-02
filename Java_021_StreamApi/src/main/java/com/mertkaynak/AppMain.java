@@ -23,5 +23,13 @@ public class AppMain {
         Stream <String> ogrencilerStream = ogrenciListesi.stream();
         System.out.println("Toplam Öğrenci Sayısı: "+ogrencilerStream.count());
         ogrencilerStream.forEach(ogrenci -> System.out.println(ogrenci));
+
+        System.out.println("--------------------------------");
+
+        var kelimeDizisi = new String[] { "Salih","Ali", "Mahir", "Yalçın", "Yunus", "Senem"};
+
+        for (String kelime : kelimeDizisi){
+            System.out.println(kelime);
+        }
     }
 }
