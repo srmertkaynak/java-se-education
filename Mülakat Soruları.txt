@@ -17,3 +17,7 @@
 
 7- Listelerde ilkel değişkenler çalışır mı?
 * Hayır. Listelerde class tipleri kullanılır.
+
+8- SQL'de DDL, DQL, DCL, ve TCL nedir?
+* Aşağıdaki kaynakta detaylı anlatılmıştır.
+https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
